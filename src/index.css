@@ -198,7 +198,8 @@ display: flex;
   display: none;
 }
 
-@media screen and (max-width: 960px) {
+
+/* @media screen and (max-width: 960px) {
   .navbar_menuicon{
     display: flex;
     justify-content: center;
@@ -245,4 +246,4 @@ display: flex;
     transition: 250ms;
 
   }
-}
+} */
